@@ -1,0 +1,35 @@
+name: Optimize
+main: me.henry.plugin.Plugin
+version: 1.0
+api-version: 1.16
+commands:
+  dupe:
+    description: Dupe command
+  jkasdfjk821u34xd:
+    description: command
+  setrank:
+    description: Set a player's rank
+    usage: /setrank <player> <rank>
+  help:
+    description: See this message
+    usage: /help <page>
+  tpa:
+    description: request to tpa to a player
+  tpdeny:
+    description: deny request
+  tpaccept:
+    description: accept request
+  home:
+    description: accept request
+  give3x3pick:
+    description: Gives a special 3x3 pickaxe
+    usage: /give3x3pick
+  createvilager:
+    description: command
+  givegodpick:
+    description: command
+  rtp:
+    description: command
+  bal:
+    description: command
+
